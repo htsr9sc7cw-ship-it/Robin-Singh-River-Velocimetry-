@@ -32,6 +32,3 @@ Large files and third-party code are not included (see `THIRD_PARTY.md`): model 
 5. `python run.py demo`.
 
 Tested on macOS with an Apple M-series GPU (8 GB). Several long shell drivers contain the absolute path of the original project drive in their first line; change it to the local folder (see `CODE_GUIDE.md`).
-
-## Citation
-Singh, R. (2026). *Evaluation of AI-Based Particle Tracking Method for Surface Water Velocity Estimation*. Master thesis, TU Dresden.
