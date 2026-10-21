@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.pth
+*.npz
+*.exr
+*.blend
+*.mp4
+out/
+out_ptv*/
+ckpt*/
+results_davis/
+tapvid_davis/
+reference_model/
+nets/
+utils/
+datasets/
