@@ -16,6 +16,8 @@ The thesis evaluates the learned point tracker PIPs++ (pre-trained and retrained
 | `XY_Validation/` | The study: `rerender/` (ground truth, tracers), `ptv/` (PTV drivers and parameters), `v2_project/` (PIPs++ drivers, scoring, statistics, tables, figure scripts), `finetune/` (retraining), `registers/` (pre-registered predictions) |
 | `Diagram_Scripts/` | One script per diagram of the thesis, a one-command runner and the result tables they read |
 | `thesis_tools/` | Scripts that recompute and check the numbers of the thesis |
+| `thesis_build/` | Scripts that assemble, format and check the thesis document |
+| `digital_appendix_tools/` | Scripts that assemble and verify the digital appendix and the code package |
 | `environment/` | Package lists for the Python environments |
 | `run.py` | Entry point: `python run.py list`, `python run.py demo` |
 
