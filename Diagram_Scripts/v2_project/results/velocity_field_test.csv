@@ -1,0 +1,6 @@
+method,scene,bias_pct,coverage,dir_agree,dir_bias_deg,frac_ok,n_cells,rmse_pct,rmse_px,true_mean_px
+PIPs++_b2_256,v2_Path4_dense,-76.29,0.988,0.337,0.18,0.012,252,104.6,22.859,21.85
+PIPs++_ft3000_b2_256,v2_Path4_dense,-5.33,0.996,0.941,1.02,0.682,254,29.5,6.448,21.864
+PIPs++_S2_b2_256,v2_Path4_dense,-12.21,0.996,0.921,1.26,0.627,254,32.6,7.135,21.865
+PTV_tuned_ncc_fd2,v2_Path4_dense,-1.64,0.761,0.974,0.05,0.729,194,18.2,3.974,21.856
+PTV_tuned_lk_fd2,v2_Path4_dense,-63.44,0.831,0.566,0.0,0.216,212,90.3,19.199,21.266

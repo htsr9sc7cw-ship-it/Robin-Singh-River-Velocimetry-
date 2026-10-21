@@ -1,0 +1,6 @@
+CONSISTENCY ../rerender/out/v2/v2_Path4 (background median grey 114)
+  advected->f+1                median grey 197.0 | fraction > bg+40: 0.974
+  stay->f+1 (control)          median grey 113.0 | fraction > bg+40: 0.027
+  advected->f+2 (control)      median grey 113.0 | fraction > bg+40: 0.028
+  advected->f-1 (control)      median grey 113.0 | fraction > bg+40: 0.028
+OVERALL: PASS  (advected positions bright, stay-still positions dark)

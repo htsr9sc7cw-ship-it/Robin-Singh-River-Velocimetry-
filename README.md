@@ -9,6 +9,16 @@ The thesis evaluates the learned point tracker PIPs++ (pre-trained and retrained
 * `environment/`: package lists (`base.txt`, `pips2.yml`, `flowvelo.yml`).
 * `run.py`: `python run.py list` shows all runnable scripts, `python run.py demo` reproduces the numbers of one scene.
 
+## Repository layout
+
+| Folder | Content |
+|---|---|
+| `XY_Validation/` | The study: `rerender/` (ground truth, tracers), `ptv/` (PTV drivers and parameters), `v2_project/` (PIPs++ drivers, scoring, statistics, tables, figure scripts), `finetune/` (retraining), `registers/` (pre-registered predictions) |
+| `Diagram_Scripts/` | One script per diagram of the thesis, a one-command runner and the result tables they read |
+| `thesis_tools/` | Scripts that recompute and check the numbers of the thesis |
+| `environment/` | Package lists for the Python environments |
+| `run.py` | Entry point: `python run.py list`, `python run.py demo` |
+
 ## What is not in this repository
 Large files and third-party code are not included (see `THIRD_PARTY.md`): model weights, rendered data of the final data set, the Blender fluid caches and the TAP-Vid-DAVIS benchmark. They are delivered separately (data carrier handed in with the thesis).
 

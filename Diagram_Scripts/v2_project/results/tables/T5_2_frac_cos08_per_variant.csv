@@ -1,0 +1,33 @@
+variant,GT speed (px/frame),PIPs++,PTV_tuned_ncc,PTV_tuned_lk,PTV_gui_defaults
+Overview sparse,13.5,0.16,0.78,0.81,0.53
+Overview dense,14.4,0.3,0.94,0.93,0.45
+Path6 sparse,20.3,0.24,0.93,0.64,0.43
+Path6 dense,20.4,0.31,0.97,0.74,0.28
+Path5 dense,21.5,0.28,0.96,0.48,0.2
+Path5 sparse,21.5,0.24,0.92,0.37,0.24
+Path3 clear sparse,21.7,0.23,0.93,0.35,0.19
+Path3 sparse,21.9,0.24,0.9,0.45,0.18
+Path4 sparse,21.9,0.24,0.94,0.46,0.23
+Path2 sparse,22.1,0.28,0.94,0.41,0.39
+Path3 clear dense,22.2,0.25,0.96,0.57,0.21
+Path3 dense,22.8,0.32,0.97,0.66,0.21
+Path4 dense,22.9,0.3,0.98,0.55,0.21
+Path7 sparse,23.4,0.27,0.67,0.71,0.43
+Path2 dense,23.7,0.38,0.98,0.74,0.26
+Path7 dense,24.1,0.33,0.95,0.8,0.32
+high angle clear dense,24.2,0.24,0.95,0.35,0.23
+high angle clear sparse,24.2,0.22,0.82,0.34,0.19
+Path1 sparse,26.8,0.26,0.84,0.62,0.43
+Low 1 003 sparse,28.1,0.35,0.89,0.78,0.3
+Path1 dense,28.3,0.34,0.97,0.73,0.27
+Low 1 003 dense,29.8,0.37,0.88,0.87,0.31
+Low 1 002 sparse,31.3,0.28,0.92,0.73,0.28
+low angle sparse,32.6,0.25,0.95,0.42,0.21
+low angle dense,34.4,0.3,0.98,0.58,0.22
+Low 1 002 dense,35.9,0.33,0.94,0.9,0.24
+Low 2 sparse,37.8,0.31,0.8,0.62,0.19
+Low 2 dense,39.9,0.32,0.95,0.54,0.17
+Low 1 sparse,46.9,0.25,0.65,0.44,0.33
+Low 1 dense,47.5,0.25,0.74,0.39,0.27
+Low 1 001 sparse,82.5,0.25,0.77,0.46,0.32
+Low 1 001 dense,82.6,0.24,0.88,0.38,0.24

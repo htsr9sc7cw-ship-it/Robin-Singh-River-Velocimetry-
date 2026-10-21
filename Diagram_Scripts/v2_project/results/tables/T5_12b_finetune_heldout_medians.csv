@@ -1,0 +1,6 @@
+,ratio (all steps),ratio (15-frame horizon),direction,within 8 px,tracks following,speed ratio,n (all steps),n (15-frame),variants < 0.8 (h15)
+"PIPs++ untrained, seeded once per 48 frames, 256 px",1.0,0.99,0.25,0.01,0.01,0.03,45137.0,14663.5,0
+"PIPs++ untrained, re-initialised every 2 frames, 256 px",0.98,0.98,0.31,0.02,0.02,0.08,36628.0,13632.5,0
+"PIPs++ fine-tuned 3000 it., re-initialised every 2 frames, 256 px",0.88,0.64,0.56,0.35,0.39,0.59,20537.5,10745.0,8
+"FlowVelo NCC, features every 2 frames",0.61,0.62,0.89,0.75,0.75,0.98,2523.5,814.5,7
+"FlowVelo LK, features every 2 frames",0.99,0.99,0.46,0.06,0.06,0.03,4499.0,1421.5,1

@@ -1,0 +1,7 @@
+,raw,raw,after_mindist,after_mindist,after_maxdist,after_maxdist,after_mincount,after_mincount,after_steady,after_steady,after_range,after_range,final,final
+,sum,median,sum,median,sum,median,sum,median,sum,median,sum,median,sum,median
+method,,,,,,,,,,,,,,
+PIPs++_fseed,0.0,,0.0,,0.0,,0.0,,0.0,,0.0,,0.0,
+PTV_gui_defaults,21699.0,630.0,16990.0,524.0,16988.0,524.0,252.0,3.0,173.0,2.0,173.0,2.0,121.0,1.0
+PTV_tuned_lk,21295.0,550.0,16302.0,395.0,16301.0,395.0,1380.0,12.0,522.0,6.0,520.0,6.0,450.0,3.0
+PTV_tuned_ncc,12852.0,368.0,11419.0,282.0,11419.0,282.0,476.0,6.0,263.0,2.0,263.0,2.0,249.0,2.0
